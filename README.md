@@ -20,5 +20,5 @@ I am Harrdy! I am in China!
 ### My Recent Learning:
 
 <!--START_SECTION:feed-->
-* [notebook about c](https://github.com/Harrdy2018/C-Notebook)
+* [notebook about c](https://github.com/Harrdy2018/C-Notebook/blob/master/README.md)
 <!--END_SECTION:feed-->
