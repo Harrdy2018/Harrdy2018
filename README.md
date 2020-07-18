@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**Harrdy2018/Harrdy2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Imaage](https://github.com/EliteDaMyth/EliteDaMyth/blob/master/image.png?raw=true)](https://github.com/Harrdy2018)
 
-Here are some ideas to get you started:
+Yea, The above image is quite cool :P
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+## Hi there 👋
+I am Harrdy! I am in China!
+- 🔭 I’m currently working on [huawei.com](https://github.com/Harrdy2018) and [My Personal Blog](https://github.com/Harrdy2018)!
+- 🌱 I’m currently learning C !
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### Contact Me
+- Email: 1035525823@qq.com
+
+### My Recent Learning:
+
+<!--START_SECTION:feed-->
+* [notebook about c](https://github.com/Harrdy2018/C-Notebook)
+<!--END_SECTION:feed-->
