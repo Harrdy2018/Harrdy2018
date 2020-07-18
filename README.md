@@ -1,5 +1,5 @@
 
-[![Imaage](https://github.com/EliteDaMyth/EliteDaMyth/blob/master/image.png?raw=true)](https://github.com/Harrdy2018)
+[![Imaage](https://cdn.svgporn.com/logos/visual-studio-code.svg)](https://github.com/Harrdy2018)
 
 Yea, The above image is quite cool :P
 
